@@ -31,7 +31,10 @@ This repository contains the following submodules for each round's project:
 ## Award Recognition
 
 My team was awarded in **Round 3**, where we presented a fully refined and enhanced version of our project. We were one of the **7 teams** recognized out of 18 finalists.
+
 Certification: https://drive.google.com/drive/folders/1C7MSrNhoFxIX2gxLT0yJTDgbFAkXtftr?usp=sharing
+
+Full blog post from the organizers: https://www.facebook.com/share/p/153mBXd4iP/
 
 ---
 
